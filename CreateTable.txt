@@ -1,0 +1,8 @@
+CREATE TABLE STUDENT (   
+		Student_Id INT, 
+        Student_Name VARCHAR(255), 
+        Student_email_id VARCHAR(255),
+        Address VARCHAR(255),
+        City VARCHAR(255)
+        );
+   

@@ -1,0 +1,9 @@
+INSERT INTO Student (Student_Id, Student_Name, Student_email_id, Address, City)
+values 
+( 101, "harsh","harsh@gmail.com", "Main khozzo office", "Punjab"),
+       ( 102, "pranav","pranav@gmail.com", "Main khozzo office", "Punjab"),
+       ( 203, "aman","aman@gmail.com", "Main khozzo office", "Punjab"),
+       ( 104, "buty","buty@gmail.com", "Main khozzo office", "Punjab"),
+       ( 105, "kumarow","kumarow@gmail.com", "Main khozzo office", "Punjab");
+
+select* from student;   //To access the student table
