@@ -1,10 +1,10 @@
-Using constraints in SQL is a fundamental part of database design that ensures the integrity and accuracy of the data. Here are some common constraints with examples to illustrate their use:
+-- Using constraints in SQL is a fundamental part of database design that ensures the integrity and accuracy of the data. Here are some common constraints with examples to illustrate their use:
 
-### 1. NOT NULL Constraint
+-- ### 1. NOT NULL Constraint
 
-Ensures that a column cannot have a NULL value.
+-- Ensures that a column cannot have a NULL value.
 
-### sql
+-- ### sql
 CREATE TABLE Employees (
     EmployeeID INT NOT NULL,
     FirstName VARCHAR(50) NOT NULL,

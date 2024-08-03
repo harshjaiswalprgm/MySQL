@@ -1,5 +1,5 @@
-Inserting multiple values into multiple tables in My### SQL statement---
- involves using the `INSERT INTO` statement for each table. Below, I'll provide an example of inserting multiple rows into the previously created `Students`, `Courses`, and `Enrollments` tables.
+-- Inserting multiple values into multiple tables in My### SQL statement---
+--  involves using the `INSERT INTO` statement for each table. Below, I'll provide an example of inserting multiple rows into the previously created `Students`, `Courses`, and `Enrollments` tables.
 
 ### Inserting Multiple Values
 

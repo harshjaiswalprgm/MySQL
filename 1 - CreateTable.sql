@@ -1,9 +1,9 @@
-Creating multiple tables in MySQL statement---
- involves using the `CREATE TABLE` statement for each table you want to create. Below is an example demonstrating how to create several related tables in a database, including the use of primary and foreign keys to establish relationships between them.
+-- Creating multiple tables in MySQL statement---
+--  involves using the `CREATE TABLE` statement for each table you want to create. Below is an example demonstrating how to create several related tables in a database, including the use of primary and foreign keys to establish relationships between them.
 
-### Example: Creating Multiple Related Tables
+-- ### Example: Creating Multiple Related Tables
 
-Let's create a database for a simple university system with tables for students, courses, and enrollments.
+-- Let's create a database for a simple university system with tables for students, courses, and enrollments.
 
 #### 1. Create the `Students` Table
 

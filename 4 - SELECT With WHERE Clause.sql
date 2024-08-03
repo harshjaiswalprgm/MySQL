@@ -1,10 +1,10 @@
-To view a specific attribute (or column) of a table in MySQL, you can use the SELECT statement. Here's the general syntax:
+-- To view a specific attribute (or column) of a table in MySQL, you can use the SELECT statement. Here's the general syntax:
 
-# select Student_Id, Address from student;
+-- # select Student_Id, Address from student;
 
-When using the `SELECT` statement with various operators in the `WHERE` clause, you can refine your queries to extract specific data based on conditions. Here are some examples with different operators:
+-- When using the `SELECT` statement with various operators in the `WHERE` clause, you can refine your queries to extract specific data based on conditions. Here are some examples with different operators:
 
-### 1. **Equality and Inequality Operators**
+-- ### 1. **Equality and Inequality Operators**
 
 - **Equality (`=`)**:
   ```sql
